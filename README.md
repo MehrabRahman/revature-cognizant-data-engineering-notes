@@ -1,1 +1,2 @@
-# revature-cognizant-data-engineering-notesMehrab Rahman
+# revature-cognizant-data-engineering-notes
+[Zachary Goznalez,]
