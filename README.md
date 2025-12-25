@@ -1,2 +1,3 @@
 # revature-cognizant-data-engineering-notes
-[Zachary Goznalez,]
+
+[Zachary Goznalez,][Jennifer Gramajo]
